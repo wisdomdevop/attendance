@@ -71,7 +71,9 @@ if (!isset($_GET['id'])) {
         </div>
 
 
-        <button type="submit" class="btn btn-success btn-lg" name="submit">Save changes</button>
+        <button type="submit" class="btn btn-success " name="submit">Save changes</button>
+        <a href="viewrecord.php"><button type="submit" class="btn btn-outline-dark" name="submit">Go
+                back</button></a>
 
         <p></p>
         <br />
